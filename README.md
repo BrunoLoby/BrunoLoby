@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @BrunoLoby
+- 👀 I’m interested in work with tecnologie
+- 🌱 I’m currently learning JavaScript,C,Java,React,Hmtl and Css
+- 📫 How to reach me Email:bruno.lobianco19@gmail.com
